@@ -1,0 +1,6 @@
+== Scope
+
+This document defines the protocol used between a *Charge Point* and a
+**Central System** in an EV charging infrastructure in the form of use cases. If the protocol requires a certain action or
+response from one side or the other, then this will be stated in this
+document.
